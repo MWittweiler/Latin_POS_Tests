@@ -1,0 +1,644 @@
+Word	Tag	If wrong, actual tag
+iam	ADV	
+consules	NOUN	
+erant	AUX	
+C	PROPN	
+.	X	PUNCT
+Plautius	PROPN	
+iterum	ADV	
+,	PUNCT	
+L	PROPN	
+.	X	PUNCT
+Aemilius	PROPN	
+Mamercinus	PROPN	
+,	PUNCT	
+cum	VERB	SCONJ
+Setini	PROPN	
+Norbanique	PROPN	
+Romam	PROPN	
+nuntii	NOUN	
+defectionis	NOUN	
+Privernatium	PROPN	
+cum	VERB	ADP
+querimoniis	NOUN	
+acceptae	VERB	
+cladis	NOUN	
+venerunt	VERB	
+.	X	PUNCT
+Volscorum	PROPN	
+item	ADV	
+exercitum	NOUN	
+duce	NOUN	
+Antiati	PROPN	
+populo	NOUN	
+consedisse	VERB	
+ad	VERB	ADP
+Satricum	PROPN	
+adlatum	VERB	
+est	AUX	
+.	X	PUNCT
+utrumque	DET	
+bellum	NOUN	
+Plautio	PROPN	
+sorte	NOUN	
+evenit	VERB	
+.	X	
+prius	ADV	
+ad	VERB	ADP
+Privernum	PROPN	
+profectus	VERB	
+extemplo	ADV	
+acie	NOUN	
+conflixit	VERB	
+.	X	PUNCT
+haud	PART	
+magno	ADJ	
+certamine	NOUN	
+devicti	VERB	
+hostes	NOUN	
+";"	PUNCT	
+oppidum	NOUN	
+captum	VERB	
+redditumque	VERB	
+Privernatibus	PROPN	
+praesidio	NOUN	
+valido	ADJ	
+inposito	VERB	
+";"	PUNCT	
+agri	NOUN	
+partes	NOUN	
+duae	NUM	
+ademptae	VERB	
+.	X	PUNCT
+inde	ADV	
+victor	NOUN	
+exercitus	NOUN	
+Satricum	PROPN	
+contra	ADV	
+Antiatis	PROPN	
+ductus	VERB	
+.	X	PUNCT
+ibi	ADV	
+magna	ADJ	
+utrimque	ADV	
+caede	NOUN	
+atrox	ADJ	
+proelium	NOUN	
+fuit	AUX	
+";"	PUNCT	
+et	CCONJ	
+cum	VERB	SCONJ
+tempestas	NOUN	
+eos	VERB	PRON
+neutro	ADJ	
+inclinata	ADJ	
+spe	NOUN	
+dimicantes	VERB	
+diremisset	VERB	
+,	PUNCT	
+Romani	ADJ	
+,	PUNCT	
+nihil	PRON	
+eo	PRON	
+certamine	NOUN	
+tam	ADV	
+ambiguo	ADJ	
+fessi	ADJ	
+,	PUNCT	
+in	VERB	ADP
+posterum	ADJ	
+diem	NOUN	
+proelium	NOUN	
+parant	VERB	
+.	X	
+Volscis	PROPN	
+recensentibus	VERB	
+,	PUNCT	
+quos	PRON	
+viros	NOUN	
+in	VERB	ADP
+acie	NOUN	
+amisissent	VERB	
+,	PUNCT	
+haudquaquam	ADV	
+idem	DET	
+animus	NOUN	
+ad	VERB	ADP
+iterandum	VERB	
+periculum	NOUN	
+fuit	AUX	
+";"	PUNCT	
+nocte	NOUN	
+pro	VERB	ADP
+victis	VERB	
+Antium	PROPN	
+agmine	NOUN	
+trepido	ADJ	
+sauciis	ADJ	
+ac	CCONJ	
+parte	NOUN	
+inpedimentorum	NOUN	
+relicta	VERB	
+abierunt	VERB	
+.	X	PUNCT
+armorum	NOUN	
+magna	ADJ	
+vis	NOUN	
+cum	VERB	SCONJ
+inter	NOUN	ADP
+caesa	VERB	
+hostium	NOUN	
+corpora	ADJ	NOUN
+tum	ADV	
+in	VERB	ADP
+castris	NOUN	
+inventa	VERB	
+est	AUX	
+.	X	PUNCT
+ea	PRON	
+Luae	PROPN	
+matri	NOUN	
+dare	VERB	
+se	VERB	PRON
+consul	NOUN	
+dixit	VERB	
+finesque	ADV	NOUN + CCONJ
+hostium	NOUN	
+usque	ADV	
+ad	VERB	ADP
+oram	VERB	NOUN
+maritumam	NOUN	ADJ
+est	AUX	
+depopulatus	VERB	
+.	X	
+alteri	DET	
+consuli	NOUN	
+Aemilio	PROPN	
+ingresso	NOUN	VERB
+Sabellum	PROPN	
+agrum	NOUN	
+non	NOUN	
+castra	NOUN	
+Samnitium	PROPN	
+,	PUNCT	
+non	NOUN	PART
+legiones	NOUN	
+usquam	ADV	
+oppositae	VERB	
+.	X	PUNCT
+ferro	NOUN	
+ignique	ADV	NOUN + CCONJ
+vastantem	VERB	
+agros	NOUN	
+legati	NOUN	
+Samnitium	PROPN	
+pacem	NOUN	
+orantes	VERB	
+adeunt	VERB	
+";"	PUNCT	
+a	VERB	ADP
+quo	PRON	
+reiecti	VERB	
+ad	VERB	ADP
+senatum	NOUN	
+potestate	NOUN	
+facta	VERB	
+dicendi	VERB	
+positis	VERB	
+ferocibus	ADJ	
+animis	NOUN	
+pacem	NOUN	
+sibi	PRON	
+ab	NOUN	ADP
+Romanis	PROPN	
+bellique	NOUN	
+ius	NOUN	
+adversus	NOUN	ADP
+Sidicinos	PROPN	
+petierunt	VERB	
+:	PUNCT	
+quae	PRON	
+se	VERB	PRON
+eo	PRON	
+iustius	ADJ	
+petere	VERB	
+,	PUNCT	
+quod	NOUN	SCONJ
+et	CCONJ	
+in	VERB	ADP
+amicitiam	NOUN	
+populi	NOUN	
+Romani	ADJ	
+secundis	ADJ	
+suis	NOUN	PRON
+rebus	NOUN	
+,	PUNCT	
+non	NOUN	PART
+adversis	ADJ	
+,	PUNCT	
+ut	SCONJ	
+Campani	PROPN	
+,	PUNCT	
+venissent	VERB	
+et	CCONJ	
+adversus	NOUN	ADP
+Sidicinos	PROPN	
+sumerent	VERB	
+arma	NOUN	
+,	PUNCT	
+suos	NOUN	PRON
+semper	ADV	
+hostes	NOUN	
+,	PUNCT	
+populi	NOUN	
+Romani	ADJ	
+numquam	ADV	
+amicos	NOUN	
+,	PUNCT	
+qui	PRON	
+nec	CCONJ	
+,	PUNCT	
+ut	SCONJ	
+Samnites	PROPN	
+,	PUNCT	
+in	VERB	ADP
+pace	NOUN	
+amicitiam	NOUN	
+nec	CCONJ	
+,	PUNCT	
+ut	SCONJ	
+Campani	PROPN	
+,	PUNCT	
+auxilium	NOUN	
+in	VERB	ADP
+bello	NOUN	
+petissent	VERB	
+,	PUNCT	
+nec	CCONJ	
+in	VERB	ADP
+fide	NOUN	
+populi	NOUN	
+Romani	ADJ	ADJ
+nec	CCONJ	
+in	VERB	ADP
+dicione	NOUN	
+essent	AUX	
+.	X	
+cum	VERB	SCONJ
+de	VERB	ADP
+postulatis	VERB	
+Samnitium	PROPN	
+T	PROPN	
+.	X	PUNCT
+Aemilius	PROPN	
+praetor	NOUN	
+senatum	NOUN	
+consuluisset	VERB	
+reddendumque	VERB	
+iis	PRON	
+foedus	ADJ	
+patres	NOUN	
+censuissent	VERB	
+,	PUNCT	
+praetor	NOUN	
+Samnitibus	PROPN	
+respondit	VERB	
+:	PUNCT	
+nec	CCONJ	
+,	PUNCT	
+quo	PRON	
+minus	ADV	
+perpetua	ADJ	
+cum	VERB	ADP
+eis	PRON	
+amicitia	NOUN	
+esset	AUX	
+,	PUNCT	
+per	VERB	ADP
+populum	NOUN	
+Romanum	ADJ	
+stetisse	VERB	
+,	PUNCT	
+nec	CCONJ	
+contradici	VERB	
+,	PUNCT	
+quin	ADV	SCONJ
+,	PUNCT	
+quoniam	SCONJ	
+ipsos	DET	
+belli	NOUN	
+culpa	NOUN	
+sua	NOUN	PRON
+contracti	VERB	
+taedium	NOUN	
+ceperit	VERB	
+,	PUNCT	
+amicitia	NOUN	
+de	VERB	ADP
+integro	ADJ	
+reconcilietur	VERB	
+";"	PUNCT	
+quod	NOUN	SCONJ
+ad	VERB	ADP
+Sidicinos	PROPN	
+attineat	VERB	
+,	PUNCT	
+nihil	PRON	
+intercedi	VERB	
+,	PUNCT	
+quo	PRON	
+minus	ADV	
+Samniti	PROPN	
+populo	NOUN	
+pacis	NOUN	
+bellique	NOUN	
+liberum	ADJ	
+arbitrium	NOUN	
+sit	AUX	
+.	X	PUNCT
+foedere	NOUN	
+icto	VERB	
+cum	VERB	SCONJ
+domum	NOUN	
+revertissent	VERB	
+,	PUNCT	
+extemplo	ADV	
+inde	ADV	
+exercitus	NOUN	
+Romanus	ADJ	
+deductus	VERB	
+annuo	ADV	ADJ
+stipendio	NOUN	
+et	CCONJ	
+trium	NUM	
+mensum	NOUN	
+frumento	NOUN	
+accepto	VERB	
+,	PUNCT	
+quod	NOUN	PRON
+pepigerat	VERB	
+consul	NOUN	
+,	PUNCT	
+ut	SCONJ	
+tempus	NOUN	
+indutiis	NOUN	
+daret	VERB	
+,	PUNCT	
+quoad	ADV	SCONJ
+legati	NOUN	
+redissent	VERB	
+.	X	PUNCT
+Samnites	PROPN	
+copiis	NOUN	
+iisdem	DET	
+,	PUNCT	
+quibus	PRON	
+usi	VERB	
+adversus	NOUN	ADP
+Romanum	ADJ	
+bellum	NOUN	
+fuerant	AUX	
+,	PUNCT	
+contra	ADV	ADP
+Sidicinos	PROPN	
+profecti	VERB	
+haud	PART	
+in	VERB	ADP
+dubia	ADJ	
+spe	NOUN	
+erant	AUX	
+mature	ADJ	ADV
+urbis	NOUN	
+hostium	NOUN	
+potiundae	VERB	
+";"	PUNCT	
+tum	ADV	
+ab	NOUN	ADP
+Sidicinis	PROPN	
+deditio	NOUN	
+prius	ADV	
+ad	VERB	ADP
+Romanos	PROPN	
+coepta	NOUN	
+fieri	ADJ	VERB
+est	AUX	
+";"	PUNCT	
+dein	ADV	
+,	PUNCT	
+postquam	SCONJ	
+patres	NOUN	
+ut	SCONJ	
+seram	ADJ	
+eam	PRON	
+ultimaque	NOUN	ADJ + CCONJ
+tandem	ADV	
+necessitate	NOUN	
+expressam	ADJ	
+aspernabantur	VERB	
+,	PUNCT	
+ad	VERB	ADP
+Latinos	NOUN	
+iam	ADV	
+sua	NOUN	PRON
+sponte	ADV	
+in	VERB	ADP
+arma	NOUN	
+motos	NOUN	
+facta	VERB	
+est	AUX	
+.	X	PUNCT
+ne	VERB	PART
+Campani	PROPN	
+quidem—adeo	ADV	IGNORE
+iniuriae	NOUN	
+Samnitium	PROPN	
+quam	ADV	
+beneficii	NOUN	
+Romanorum	PROPN	
+memoria	NOUN	
+praesentior	ADJ	
+erat—his	DET	IGNORE
+se	VERB	PRON
+armis	NOUN	
+abstinuere	VERB	
+.	X	PUNCT
+ex	NOUN	ADP
+his	DET	
+tot	DET	
+populis	NOUN	
+unus	NUM	
+ingens	ADJ	
+exercitus	NOUN	
+duce	NOUN	
+Latino	ADJ	
+fines	NOUN	
+Samnitium	PROPN	
+ingressus	VERB	
+plus	ADV	
+populationibus	NOUN	
+quam	ADV	
+proeliis	NOUN	
+cladium	NOUN	
+fecit	ADJ	VERB
+";"	PUNCT	
+et	CCONJ	
+quamquam	SCONJ	
+superiores	ADJ	
+certaminibus	NOUN	
+Latini	PROPN	
+erant	AUX	
+,	PUNCT	
+haud	PART	
+inviti	ADJ	
+,	PUNCT	
+ne	VERB	SCONJ
+saepius	ADV	
+dimicandum	VERB	
+foret	AUX	
+,	PUNCT	
+agro	NOUN	
+hostium	NOUN	
+excessere	VERB	
+.	X	PUNCT
+id	PRON	
+spatium	NOUN	
+Samnitibus	PROPN	
+datum	VERB	
+est	AUX	
+Romam	PROPN	
+legatos	NOUN	
+mittendi	VERB	
+";"	PUNCT	
+qui	PRON	
+cum	VERB	SCONJ
+adissent	VERB	
+senatum	NOUN	
+,	PUNCT	
+conquesti	VERB	
+eadem	DET	
+se	VERB	PRON
+foederatos	ADJ	
+pati	VERB	
+,	PUNCT	
+quae	PRON	
+hostes	NOUN	
+essent	AUX	
+passi	VERB	
+,	PUNCT	
+precibus	NOUN	
+infimis	ADJ	
+petiere	VERB	
+,	PUNCT	
+ut	SCONJ	
+satis	ADV	
+ducerent	VERB	
+Romani	ADJ	NOUN
+victoriam	NOUN	
+quam	ADV	
+Samnitibus	PROPN	
+ex	NOUN	ADP
+Campano	ADJ	
+Sidicinoque	PROPN	
+hoste	NOUN	
+eripuisse	VERB	
+,	PUNCT	
+ne	VERB	SCONJ
+vinci	VERB	
+etiam	ADV	CCONJ
+se	VERB	PRON
+ab	NOUN	ADP
+ignavissimis	ADJ	
+populis	NOUN	
+sinerent	VERB	
+";"	PUNCT	
+Latinos	NOUN	
+Campanosque	PROPN	
+,	PUNCT	
+si	SCONJ	
+sub	NOUN	ADP
+dicione	NOUN	
+populi	NOUN	
+Romani	ADJ	
+essent	AUX	
+,	PUNCT	
+pro	VERB	ADP
+imperio	NOUN	
+arcerent	VERB	
+Samniti	PROPN	
+agro	NOUN	
+,	PUNCT	
+sin	SCONJ	
+imperium	NOUN	
+abnuerent	VERB	
+,	PUNCT	
+armis	NOUN	
+coercerent	VERB	
+.	X	PUNCT
+adversus	NOUN	ADP
+haec	DET	
+responsum	NOUN	
+anceps	ADJ	
+datum	VERB	
+,	PUNCT	
+quia	SCONJ	
+fateri	VERB	
+pigebat	VERB	
+in	VERB	ADP
+potestate	NOUN	
+sua	NOUN	PRON
+Latinos	NOUN	
+iam	ADV	
+non	NOUN	PART
+esse	AUX	
+timebantque	VERB	
+,	PUNCT	
+ne	VERB	SCONJ
+arcendo	VERB	
+abalienarent	VERB	
+:	PUNCT	
+Campanorum	PROPN	
+aliam	DET	
+condicionem	NOUN	
+esse	AUX	
+,	PUNCT	
+qui	PRON	
+non	NOUN	PART
+foedere	NOUN	
+,	PUNCT	
+sed	CCONJ	
+per	VERB	ADP
+deditionem	NOUN	
+in	VERB	ADP
+fidem	NOUN	
+venissent	VERB	
+";"	PUNCT	
+itaque	CCONJ	
+Campanos	PROPN	
+,	PUNCT	
+seu	CCONJ	
+velint	VERB	
+seu	CCONJ	
+nolint	VERB	
+,	PUNCT	
+quieturos	VERB	
+";"	PUNCT	
+in	VERB	ADP
+foedere	NOUN	
+Latino	ADJ	
+nihil	PRON	
+esse	AUX	
+,	PUNCT	
+quo	PRON	
+bellare	VERB	
+,	PUNCT	
+cum	VERB	ADP
+quibus	PRON	
+ipsi	DET	
+velint	VERB	
+,	PUNCT	
+prohibeantur	VERB	
+.	X	PUNCT
+		
+		
+639 tokens		
+	thereof wrong:	105
